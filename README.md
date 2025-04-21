@@ -102,18 +102,9 @@ Organized youth festival & raised ₹1.5+ Lakhs in support of tribal education.
 
 ---
 
-## ⚡ Fun Facts
-
-- I started tinkering with tech to scale my father’s small business.
-- I shifted from Physics to Full Stack Web Development in my 2nd year.
-- I enjoy reading spiritual books and finding tech-driven ways to contribute to society.
-
----
-
 ## 📊 GitHub Stats
 
 ![KDVaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KDVaibhav&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDVaibhav&layout=compact)
 
 ---
