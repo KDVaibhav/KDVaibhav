@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Full Stack Developer | 🧠 GenAI Enthusiast | 🌐 Web3 Explorer | 🎓 IIT Kharagpur
+### 🚀 SDE@WareIQ(YC20) | 🧠 GenAI Enthusiast | 🌐 Web3 Explorer | 🎓 IIT Kharagpur
 
 Passionate about building scalable SaaS platforms, developer tools, and AI-powered systems. With hands-on experience across e-commerce, ERP systems, decentralized apps (DApps), and real-time collaboration tools, I love converting business ideas into beautifully crafted and technically solid digital products.
 
